@@ -18,7 +18,7 @@ Lead Summary appears healthiest overall, with the highest acceptance among compl
 
 ## Assumptions and issues
 
-Rates are calculated from summed counts rather than averages of row-level percentages. I removed one explicitly labeled duplicate export row, standardized inconsistent team casing, retained missing values, and treated demo-account traffic as non-routine. Confidence and estimated time saved are treated as directional rather than definitive quality measures.
+Rates are calculated from summed counts rather than averages of row-level percentages. I removed one explicitly labeled duplicate export row, standardized inconsistent team casing, and retained missing values. The aggregate metrics include the labeled demo-account event, so Lead Summary’s results should not be interpreted as normal production performance. Confidence and estimated time saved are treated as directional rather than definitive quality measures.
 
 ## Run locally
 
